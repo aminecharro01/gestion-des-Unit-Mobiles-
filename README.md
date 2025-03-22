@@ -17,3 +17,11 @@ Améliorer l'efficacité des interventions médicales.
 Centraliser et automatiser la gestion des ressources.
 
 Fournir des données précises pour une amélioration continue des services.
+
+
+Sous l'Encadrement de Pr. NAFIL KHALID
+
+l'équipe de developpement : 
+    Charro Amine
+    Youssef Hachimi Alaoui
+    Lakbidi Achraf 
